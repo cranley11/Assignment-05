@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573596824573.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7CE29FF",
+    "lastKnownWriteTime" : 68719476736,
+    "last_content_update" : 1573596824573,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "BA55BA15",
+        "caption" : "GDPC1",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=GDPC1&cache_key=BA55BA15",
+        "displayedObservations" : 291,
+        "environment" : "",
+        "expression" : "GDPC1",
+        "object" : "GDPC1",
+        "preview" : 0,
+        "totalObservations" : 291,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
