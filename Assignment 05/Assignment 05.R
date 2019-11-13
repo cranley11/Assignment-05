@@ -1,0 +1,2 @@
+DF <- fread("GDPC1.csv", header="auto", 
+            data.table=FALSE)
